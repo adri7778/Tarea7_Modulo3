@@ -1,0 +1,9 @@
+Cuando las comunidades registran y consultan incidencias en una plataforma tecnológica,
+ ganan autonomía y transforman la gestión de su entorno. 
+ Centralizar reportes como baches, fallas de iluminación o acumulación de basura en un canal
+  digital visibiliza los problemas reales del barrio, evitando que las quejas se pierdan en la burocracia.
+Al ser una herramienta pública, se fomenta la transparencia, ya que los vecinos pueden hacer seguimiento al estado de
+los arreglos y auditar la velocidad de respuesta de las entidades responsables. Además, consultar el mapa 
+de reportes ayuda a la comunidad a identificar patrones o zonas críticas, permitiéndoles unirse para 
+priorizar soluciones compartidas. En última instancia, este flujo de información fortalece el tejido social, 
+convirtiendo a los ciudadanos en actores clave para el cuidado y desarrollo de su propio territorio.
